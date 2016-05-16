@@ -2,12 +2,13 @@ name: nothrow
 favicon: null
 layout_spectrum: 0.7624294296838343
 typography_spectrum: 0.6190991553012282
+title: Nothrow
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-77776570-1
   facebook: null
   twitter: null
 opengraph:
